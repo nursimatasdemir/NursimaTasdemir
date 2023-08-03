@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Nursima
 
+
+
 -👩‍💻 I'm studying computer engineering at Karadeniz Technical University. I am trying to take part as a developer in the developing new version of the internet.
 
 -🤖 I am interested in artificial intelligence and web3.0 fields. 
