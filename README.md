@@ -21,11 +21,10 @@
         <tr>
         <td colspan="8">
         <img src="https://img.icons8.com/?size=512&id=13441&format=png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=40669&format=png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=shQTXiDQiQVR&format=png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=at2DODSyQznb&format=png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=IhWBOFHtv6vx&format=png" width=50></a>
         </td>
     </tr>
 </table>
