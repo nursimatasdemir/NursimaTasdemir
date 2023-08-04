@@ -1,3 +1,17 @@
+<h1 align="center">
+  ### Hi there 👋 My name is Nursima
+</h1> 
+-👩‍💻 I'm studying computer engineering at Karadeniz Technical University. I am trying to take part as a developer in the developing new version of the internet.
+
+-🤖 I am interested in artificial intelligence and web3.0 fields. 
+
+-🚀 I am currently learning on Solidity, Ethereum and image processing. Although I have added a lot to myself since I first started, I    still   have a lot to learn and working on it is my biggest passion. 
+
+-🆓 I spend my free time reading, watching sports and cooking.
+<br>
+<br>
+
+
 ### Hi there 👋 My name is Nursima
 
 
