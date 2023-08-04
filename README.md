@@ -15,7 +15,7 @@
 <table>
     <tr>
         <td colspan="8">
-        <strong><samp>Programming Languages:</samp></strong>
+        <strong><samp>My Skills:</samp></strong>
         </td>
     </tr>
         <tr>
