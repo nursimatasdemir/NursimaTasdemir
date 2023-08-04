@@ -25,6 +25,8 @@
         <img src="https://img.icons8.com/?size=512&id=shQTXiDQiQVR&format=png" width=50></a>
         <img src="https://img.icons8.com/?size=512&id=at2DODSyQznb&format=png" width=50></a>
         <img src="https://img.icons8.com/?size=512&id=IhWBOFHtv6vx&format=png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=bpip0gGiBLT1&format=png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=n3QRpDA7KZ7P&format=png" width=50></a>
         </td>
     </tr>
 </table>
