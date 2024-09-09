@@ -30,9 +30,6 @@
         </td>
     </tr>
 
-  <a href="https://www.software.com/100-days-of-code">
-    <img src="https://www.software.com/badges/100-days-of-code" />
-</a>
 
 </table>
 
