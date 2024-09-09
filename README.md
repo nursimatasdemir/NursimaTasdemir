@@ -29,6 +29,11 @@
         <img src="https://img.icons8.com/?size=512&id=n3QRpDA7KZ7P&format=png" width=50></a>
         </td>
     </tr>
+
+  <a href="https://www.software.com/100-days-of-code">
+    <img src="https://www.software.com/badges/100-days-of-code" />
+</a>
+
 </table>
 
 
