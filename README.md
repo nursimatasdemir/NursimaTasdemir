@@ -15,10 +15,10 @@
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -28,12 +28,14 @@
 
 
 ### 📌 Featured Projects  
-🔹 **AI-powered Portfolio Tracker** – ML-driven insights for investors  
+🔹 **Warehouse Automation System** – Microservices with .NET 8, YARP, CQRS, Redis, Docker
+🔹 **Office Add-in** – Code syntax highlighting with AI-powered language detection  
+🔹 **AI Travel Planner** – React Native mobile app with Firebase & Gemini AI  
+🔹 **Stock Portfolio API** – ASP.NET Core RESTful API with JWT & Repository Pattern
 🔹 **C++ Neural Network from Scratch** – Math + code combined  
-🔹 **React Native Mobile App** – Firebase authentication & live data  
-🔹 **Office Add-in** – Productivity tool that works cross-platform  
 
 ---
+
 
 ### 📫 Connect with Me  
 <p align="center">
