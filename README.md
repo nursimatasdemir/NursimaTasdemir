@@ -28,7 +28,7 @@
 
 
 ### 📌 Featured Projects  
-🔹 **Warehouse Automation System** – Microservices with .NET 8, YARP, CQRS, Redis, Docker
+🔹 **Warehouse Automation System** – Microservices with .NET 8, YARP, CQRS, Redis, Docker 
 🔹 **Office Add-in** – Code syntax highlighting with AI-powered language detection  
 🔹 **AI Travel Planner** – React Native mobile app with Firebase & Gemini AI  
 🔹 **Stock Portfolio API** – ASP.NET Core RESTful API with JWT & Repository Pattern
